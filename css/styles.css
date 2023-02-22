@@ -1,6 +1,11 @@
 
+body{
+  font-family: "Montserrat";
+}
+
 #title{
   background-color: #ff4c68;
+  color: #fff;
 }
 
 .container-fluid{
@@ -8,12 +13,23 @@
 }
 
 h1{
-  font-family: 'Montserrat-Black 900', sans-serif;
+  font-family: 'Montserrat-Black', sans-serif;
   font-size: 3rem;
   line-height: 1.5;
 }
 
+.heading-contest{
+  font-weight: 800;
+}
+
+/* Navbar-Brand */
+
 .navbar-brand{
-  font-family: 'Montserrat-Black 900', sans-serif;
-  font-size: 3rem;
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar{
+  padding-bottom: 50px;
 }
