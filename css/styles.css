@@ -18,6 +18,16 @@ h1{
   line-height: 1.5;
 }
 
+h3{
+  font-family: 'Montserrat-Black', sans-serif;
+  font-weight: 700;
+  /* line-height: 1.5rem; */
+}
+
+p{
+  color: #8f8f8f;
+}
+
 .title-contest{
   font-weight: 800;
 }
@@ -64,4 +74,15 @@ h1{
 
 .feature-box{
   text-align: center;
+  padding: 4%;
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4668;
+
 }
