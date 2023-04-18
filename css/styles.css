@@ -137,7 +137,6 @@ p{
   padding: 3% 2%;
 }
 
-/********************** Media Query ********************************/
 
 @media (max-width: 1040px) {
 
@@ -149,23 +148,5 @@ p{
     position: static;
     transform: rotate(0);
   }
-}
 
-/*************************** Footer-Context ***********************************/
-
-#cta {
-  background-color: #ff4c68;
-  padding: 7% 15%;
-  text-align: center;
-  color: white;
-}
-
-
-
-/*************************** Footer  ***********************************/
-
-#footer{
-  padding: 7% 15%;
-  text-align: center;
-  background-color: #fff;
 }
