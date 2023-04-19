@@ -165,3 +165,12 @@ p{
   }
 
 }
+
+
+/*************************** Footer  ***********************************/
+
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #fff;
+}
